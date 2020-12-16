@@ -1,3 +1,8 @@
+# If we closed browser tab of repl we can chat with bot using uptimerobot.com.click Add moonitor and add url.
+
+
+# Deployment
+
 from flask import Flask 
 from threading import Thread
 
